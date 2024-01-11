@@ -1,5 +1,6 @@
 # Machine-Learning-for-User-Classification-Project
 Project Overview
+
 The Machine Learning for User Classification project is a data-driven initiative designed to apply machine learning algorithms to predict whether students on 365's online learning platform will upgrade from a free plan to a paid one. This classification problem involves analyzing student engagement metrics, including the number of days spent on the platform, minutes of watched content, and the number of courses started.
 
 Business Objective
